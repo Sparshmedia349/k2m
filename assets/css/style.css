@@ -2353,6 +2353,10 @@ footer {
   background-image: url("../img/banner/banner-4.png");
   /* background-image: url("../img/contactImg.jpg"); */
 }
+.banner-bg-four {
+  background-image: url("../img/banner/Banner-10.png");
+  /* background-image: url("../img/contactImg.jpg"); */
+}
 
 /* banner right left button */
 /* .owl-theme .owl-nav {
